@@ -1,0 +1,101 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Islamic Geometric Pattern -->
+  <rect width="512" height="512" fill="#F8F7F2" />
+
+  <!-- Main Pattern -->
+  <g stroke="#1F7A54" stroke-width="1.5" fill="none">
+    <!-- Horizontal Lines -->
+    <path d="M0,64 L512,64" />
+    <path d="M0,128 L512,128" />
+    <path d="M0,192 L512,192" />
+    <path d="M0,256 L512,256" />
+    <path d="M0,320 L512,320" />
+    <path d="M0,384 L512,384" />
+    <path d="M0,448 L512,448" />
+
+    <!-- Vertical Lines -->
+    <path d="M64,0 L64,512" />
+    <path d="M128,0 L128,512" />
+    <path d="M192,0 L192,512" />
+    <path d="M256,0 L256,512" />
+    <path d="M320,0 L320,512" />
+    <path d="M384,0 L384,512" />
+    <path d="M448,0 L448,512" />
+  </g>
+
+  <!-- Star Patterns at Intersections -->
+  <g fill="#1F7A54" opacity="0.7">
+    <!-- Row 1 -->
+    <circle cx="64" cy="64" r="8" />
+    <circle cx="128" cy="64" r="8" />
+    <circle cx="192" cy="64" r="8" />
+    <circle cx="256" cy="64" r="8" />
+    <circle cx="320" cy="64" r="8" />
+    <circle cx="384" cy="64" r="8" />
+    <circle cx="448" cy="64" r="8" />
+
+    <!-- Row 2 -->
+    <circle cx="64" cy="128" r="8" />
+    <circle cx="128" cy="128" r="8" />
+    <circle cx="192" cy="128" r="8" />
+    <circle cx="256" cy="128" r="8" />
+    <circle cx="320" cy="128" r="8" />
+    <circle cx="384" cy="128" r="8" />
+    <circle cx="448" cy="128" r="8" />
+
+    <!-- Row 3 -->
+    <circle cx="64" cy="192" r="8" />
+    <circle cx="128" cy="192" r="8" />
+    <circle cx="192" cy="192" r="8" />
+    <circle cx="256" cy="192" r="8" />
+    <circle cx="320" cy="192" r="8" />
+    <circle cx="384" cy="192" r="8" />
+    <circle cx="448" cy="192" r="8" />
+
+    <!-- Row 4 -->
+    <circle cx="64" cy="256" r="8" />
+    <circle cx="128" cy="256" r="8" />
+    <circle cx="192" cy="256" r="8" />
+    <circle cx="256" cy="256" r="8" />
+    <circle cx="320" cy="256" r="8" />
+    <circle cx="384" cy="256" r="8" />
+    <circle cx="448" cy="256" r="8" />
+
+    <!-- Row 5 -->
+    <circle cx="64" cy="320" r="8" />
+    <circle cx="128" cy="320" r="8" />
+    <circle cx="192" cy="320" r="8" />
+    <circle cx="256" cy="320" r="8" />
+    <circle cx="320" cy="320" r="8" />
+    <circle cx="384" cy="320" r="8" />
+    <circle cx="448" cy="320" r="8" />
+
+    <!-- Row 6 -->
+    <circle cx="64" cy="384" r="8" />
+    <circle cx="128" cy="384" r="8" />
+    <circle cx="192" cy="384" r="8" />
+    <circle cx="256" cy="384" r="8" />
+    <circle cx="320" cy="384" r="8" />
+    <circle cx="384" cy="384" r="8" />
+    <circle cx="448" cy="384" r="8" />
+
+    <!-- Row 7 -->
+    <circle cx="64" cy="448" r="8" />
+    <circle cx="128" cy="448" r="8" />
+    <circle cx="192" cy="448" r="8" />
+    <circle cx="256" cy="448" r="8" />
+    <circle cx="320" cy="448" r="8" />
+    <circle cx="384" cy="448" r="8" />
+    <circle cx="448" cy="448" r="8" />
+  </g>
+
+  <!-- Decorative Elements -->
+  <g fill="#C99645" opacity="0.5">
+    <path d="M256,256 L224,224 L256,192 L288,224 Z" />
+    <path d="M256,256 L224,288 L256,320 L288,288 Z" />
+    <path d="M256,256 L192,256 L192,224 L224,224 Z" />
+    <path d="M256,256 L288,256 L288,224 L256,224 Z" />
+    <path d="M256,256 L256,192 L288,192 L288,224 Z" />
+    <path d="M256,256 L256,320 L224,320 L224,288 Z" />
+  </g>
+</svg>
