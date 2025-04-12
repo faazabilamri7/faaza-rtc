@@ -64,7 +64,7 @@
 -dontwarn com.google.android.play.**
 
 -keep class com.google.android.play.core.splitcompat.** { *; }
--dontwarn com.google.android.play.core.splitcompat.**
+-dontwarn com.google.android.play.core.splitcompat.**git push
 
 -keep class com.google.android.play.core.splitinstall.** { *; }
 -dontwarn com.google.android.play.core.splitinstall.**
